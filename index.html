@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" media="screen" href="./assets/css/index.css">
+    <meta name="description"
+        content="Elegant 5-star review UI with smooth hover effects, and responsive design. Built with modern HTML/CSS/JS. Clean, accessible, and mobile-friendly.">
+    <link rel="icon" type="image/x-icon" href="../../assets/img/favicon-16x16.png">
+    <link rel="icon" type="image/x-icon" href="../../assets/img/favicon-32x32.png">
+    <link rel="canonical" href="https://sadevworks.com/demo/modern-review-ui/">
+    <meta name="author" content="nvmwhoiam">
+    <meta name="keywords" content="">
+
+    <meta name="robots" content="index, follow">
+    <title>Modern Review UI | SADevWorks.com</title>
+</head>
+
+<body>
+    <header class="header">
+        <h1 class="title">Product Reviews UI</h1>
+        <p class="subtitle">See what our customers are saying</p>
+    </header>
+
+    <main class="main_container">
+
+        <div class="stats-section">
+            <div class="overall-rating">
+                <div class="rating-display">
+                    <span class="rating-number">-.-</span>
+                    <div class="stars">
+                        <span class="star">★</span>
+                        <span class="star">★</span>
+                        <span class="star">★</span>
+                        <span class="star">★</span>
+                        <span class="star">★</span>
+                    </div>
+                </div>
+                <p class="rating-text">Based on <span class="review-count">0</span> reviews</p>
+            </div>
+
+            <div class="rating-breakdown">
+                <div class="rating-bar" data-rating="5">
+                    <span class="rating-label">5 stars</span>
+                    <div class="bar-container">
+                        <div class="bar" style="width: 0%"></div>
+                    </div>
+                    <span class="rating-percentage">0%</span>
+                </div>
+                <div class="rating-bar" data-rating="4">
+                    <span class="rating-label">4 stars</span>
+                    <div class="bar-container">
+                        <div class="bar" style="width: 0%"></div>
+                    </div>
+                    <span class="rating-percentage">0%</span>
+                </div>
+                <div class="rating-bar" data-rating="3">
+                    <span class="rating-label">3 stars</span>
+                    <div class="bar-container">
+                        <div class="bar" style="width: 0%"></div>
+                    </div>
+                    <span class="rating-percentage">0%</span>
+                </div>
+                <div class="rating-bar" data-rating="2">
+                    <span class="rating-label">2 stars</span>
+                    <div class="bar-container">
+                        <div class="bar" style="width: 0%"></div>
+                    </div>
+                    <span class="rating-percentage">0%</span>
+                </div>
+                <div class="rating-bar" data-rating="1">
+                    <span class="rating-label">1 star</span>
+                    <div class="bar-container">
+                        <div class="bar" style="width: 0%"></div>
+                    </div>
+                    <span class="rating-percentage">0%</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="filter-controls" id="filterControls" style="display: none;">
+            <div class="filter-info" id="filterInfo">Showing filtered reviews</div>
+
+            <button class="clear-filter-btn" id="clearFilterBtn" aria-label="Clear filter">
+                Clear Filter
+            </button>
+        </div>
+
+        <div class="reviews-container" id="reviewsContainer"> </div>
+
+        <div class="load-more">
+            <button class="btn_primary" id="loadMoreBtn" aria-label="Load more">
+                Load More Reviews
+            </button>
+        </div>
+    </main>
+
+    <script src="./assets/js/index.js"></script>
+</body>
+
+</html>

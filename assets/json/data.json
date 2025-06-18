@@ -1,0 +1,264 @@
+{
+    "reviews": [
+        {
+            "id": 1,
+            "reviewer": {
+                "name": "Sarah Johnson",
+                "avatar": "SJ"
+            },
+            "rating": 5,
+            "title": "Absolutely Amazing Product!",
+            "text": "This product exceeded all my expectations. The quality is outstanding and it's exactly what I was looking for. Highly recommend to anyone considering this purchase.",
+            "date": "2024-01-15",
+            "helpful": 24,
+            "verified": true
+        },
+        {
+            "id": 2,
+            "reviewer": {
+                "name": "Michael Chen",
+                "avatar": "MC"
+            },
+            "rating": 4,
+            "title": "Great Value for Money",
+            "text": "Very satisfied with this purchase. The product works well and the price was reasonable. Only giving 4 stars because the delivery took a bit longer than expected.",
+            "date": "2024-01-12",
+            "helpful": 18,
+            "verified": true
+        },
+        {
+            "id": 3,
+            "reviewer": {
+                "name": "Emily Rodriguez",
+                "avatar": "ER"
+            },
+            "rating": 5,
+            "title": "Perfect for My Needs",
+            "text": "I've been using this for about a month now and I couldn't be happier. The design is sleek, functionality is top-notch, and customer service was excellent when I had questions.",
+            "date": "2024-01-10",
+            "helpful": 31,
+            "verified": true
+        },
+        {
+            "id": 4,
+            "reviewer": {
+                "name": "David Thompson",
+                "avatar": "DT"
+            },
+            "rating": 3,
+            "title": "Good but Could Be Better",
+            "text": "The product is decent and does what it's supposed to do. However, I found some aspects to be a bit confusing at first. Once you get used to it, it's fine.",
+            "date": "2024-01-08",
+            "helpful": 12,
+            "verified": false
+        },
+        {
+            "id": 5,
+            "reviewer": {
+                "name": "Lisa Wang",
+                "avatar": "LW"
+            },
+            "rating": 5,
+            "title": "Exceeded Expectations",
+            "text": "I was skeptical at first, but this product has proven to be incredibly reliable and well-made. The attention to detail is impressive and it's clear that quality was a priority.",
+            "date": "2024-01-05",
+            "helpful": 27,
+            "verified": true
+        },
+        {
+            "id": 6,
+            "reviewer": {
+                "name": "James Wilson",
+                "avatar": "JW"
+            },
+            "rating": 2,
+            "title": "Disappointed with Quality",
+            "text": "The product arrived damaged and the quality doesn't match the price point. Customer service was helpful in resolving the issue, but I expected better for the money.",
+            "date": "2024-01-03",
+            "helpful": 8,
+            "verified": true
+        },
+        {
+            "id": 7,
+            "reviewer": {
+                "name": "Amanda Foster",
+                "avatar": "AF"
+            },
+            "rating": 5,
+            "title": "Best Purchase This Year",
+            "text": "I'm absolutely in love with this product! It's made my life so much easier and the quality is exceptional. Worth every penny and then some.",
+            "date": "2024-01-01",
+            "helpful": 42,
+            "verified": true
+        },
+        {
+            "id": 8,
+            "reviewer": {
+                "name": "Robert Kim",
+                "avatar": "RK"
+            },
+            "rating": 4,
+            "title": "Solid Product",
+            "text": "Good quality product that meets expectations. The packaging was excellent and shipping was fast. Would recommend to others looking for this type of item.",
+            "date": "2023-12-28",
+            "helpful": 15,
+            "verified": false
+        },
+        {
+            "id": 9,
+            "reviewer": {
+                "name": "Jennifer Martinez",
+                "avatar": "JM"
+            },
+            "rating": 5,
+            "title": "Fantastic Experience",
+            "text": "From ordering to delivery to using the product, everything was perfect. The company clearly cares about customer satisfaction and product quality.",
+            "date": "2023-12-25",
+            "helpful": 33,
+            "verified": true
+        },
+        {
+            "id": 10,
+            "reviewer": {
+                "name": "Thomas Anderson",
+                "avatar": "TA"
+            },
+            "rating": 1,
+            "title": "Poor Quality and Service",
+            "text": "The product broke after just a few days of use. When I contacted customer service, they were unhelpful and refused to provide a refund. Very disappointed.",
+            "date": "2023-12-22",
+            "helpful": 5,
+            "verified": true
+        },
+        {
+            "id": 11,
+            "reviewer": {
+                "name": "Rachel Green",
+                "avatar": "RG"
+            },
+            "rating": 5,
+            "title": "Love It!",
+            "text": "This is exactly what I needed. The quality is amazing and it's so easy to use. Highly recommend!",
+            "date": "2023-12-20",
+            "helpful": 19,
+            "verified": true
+        },
+        {
+            "id": 12,
+            "reviewer": {
+                "name": "Kevin Park",
+                "avatar": "KP"
+            },
+            "rating": 4,
+            "title": "Good Product",
+            "text": "Solid product that does what it says. Good value for the price. Would buy again.",
+            "date": "2023-12-18",
+            "helpful": 11,
+            "verified": false
+        },
+        {
+            "id": 13,
+            "reviewer": {
+                "name": "Maria Garcia",
+                "avatar": "MG"
+            },
+            "rating": 5,
+            "title": "Excellent Quality",
+            "text": "The craftsmanship is outstanding. This product will last for years and looks great too.",
+            "date": "2023-12-15",
+            "helpful": 28,
+            "verified": true
+        },
+        {
+            "id": 14,
+            "reviewer": {
+                "name": "Daniel Lee",
+                "avatar": "DL"
+            },
+            "rating": 3,
+            "title": "Okay Product",
+            "text": "It's functional but nothing special. The price is reasonable for what you get.",
+            "date": "2023-12-12",
+            "helpful": 7,
+            "verified": false
+        },
+        {
+            "id": 15,
+            "reviewer": {
+                "name": "Sophie Turner",
+                "avatar": "ST"
+            },
+            "rating": 5,
+            "title": "Amazing!",
+            "text": "I can't believe how good this product is. It's exceeded all my expectations and I use it every day.",
+            "date": "2023-12-10",
+            "helpful": 35,
+            "verified": true
+        },
+        {
+            "id": 16,
+            "reviewer": {
+                "name": "Alex Johnson",
+                "avatar": "AJ"
+            },
+            "rating": 4,
+            "title": "Great Value",
+            "text": "Really happy with this purchase. The quality is good and it works as advertised. Would recommend.",
+            "date": "2023-12-08",
+            "helpful": 14,
+            "verified": true
+        },
+        {
+            "id": 17,
+            "reviewer": {
+                "name": "Emma Wilson",
+                "avatar": "EW"
+            },
+            "rating": 5,
+            "title": "Perfect!",
+            "text": "This product is absolutely perfect for my needs. The quality is exceptional and I love using it every day.",
+            "date": "2023-12-05",
+            "helpful": 22,
+            "verified": true
+        },
+        {
+            "id": 18,
+            "reviewer": {
+                "name": "Chris Brown",
+                "avatar": "CB"
+            },
+            "rating": 3,
+            "title": "Decent Product",
+            "text": "It's okay, nothing special. Does the job but I expected a bit more for the price.",
+            "date": "2023-12-03",
+            "helpful": 6,
+            "verified": false
+        },
+        {
+            "id": 19,
+            "reviewer": {
+                "name": "Jessica Davis",
+                "avatar": "JD"
+            },
+            "rating": 5,
+            "title": "Excellent!",
+            "text": "I'm so impressed with this product. The quality is outstanding and it's exactly what I was looking for.",
+            "date": "2023-12-01",
+            "helpful": 29,
+            "verified": true
+        },
+        {
+            "id": 20,
+            "reviewer": {
+                "name": "Mike Taylor",
+                "avatar": "MT"
+            },
+            "rating": 4,
+            "title": "Very Good",
+            "text": "Great product with good quality. Fast shipping and excellent customer service. Highly recommend.",
+            "date": "2023-11-28",
+            "helpful": 16,
+            "verified": true
+        }
+    ]
+}
