@@ -16,17 +16,19 @@ A beautiful, responsive review interface with 5-star ratings built using modern 
 ## File Structure
 
 ```
-review/
-├── index.html              # Main HTML file
-├── assets/
-│   ├── css/
-│   │   ├── styles.css      # Main stylesheet (compiled from SCSS)
-│   │   ├── review.css      # Review-specific styles
-│   │   └── general/        # SCSS source files
-│   └── js/
-│       ├── review-data.js  # Sample review data in JSON format
-│       └── review-app.js   # Main application logic
-└── README.md
+/assets
+├── css/
+│   ├── general/
+│   │   ├── base.scss       # Base styles and variables
+│   │   ├── icons.scss      # Icon font styles
+│   │   ├── keyframes.scss  # Animation keyframes
+│   │   └── mixin.scss      # SCSS mixins
+│   └── index.scss          # Main stylesheet
+├── js/
+│   └── index.js            # Main JavaScript
+│
+index.html                  # Main HTML file
+README.md                   # Documentation
 ```
 
 ## Usage
