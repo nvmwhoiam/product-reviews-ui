@@ -1,9 +1,8 @@
 @import "./general/root.scss";
 @import "./general/base.scss";
 @import "./general/mixin.scss";
-@import "./general/keyframes.scss";
 
-// v0.0.1
+// v0.0.2
 .header {
     padding: var(--md-p);
     text-align: center;
@@ -385,5 +384,12 @@
             gap: var(--sm-p);
             align-items: flex-start;
         }
+    }
+
+
+    .header_container,
+    .footer_container {
+        text-align: center;
+        padding: var(--xl-p) var(--md-p);
     }
 }
